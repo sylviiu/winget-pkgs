@@ -1,0 +1,9 @@
+PackageIdentifier: sylviiu.ezytdl
+PackageVersion: 3.0.0
+InstallerType: nullsoft
+Installers:
+- InstallerUrl: https://github.com/undefined/undefined/releases/download/3.0.0/ezytdl-win32.exe
+  Architecture: x64
+  InstallerSha256: 7B629F4E57A2590AA95DC54DBC280860418C37695B3EC4D31D3A3EAF85B2144A
+ManifestType: installer
+ManifestVersion: 1.5.0
