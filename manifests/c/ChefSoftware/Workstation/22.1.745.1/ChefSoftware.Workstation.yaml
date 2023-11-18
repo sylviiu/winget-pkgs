@@ -1,7 +1,0 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
-PackageIdentifier: ChefSoftware.Workstation
-PackageVersion: 22.1.745.1
-DefaultLocale: en-US
-ManifestType: version
-ManifestVersion: 1.0.0
-
